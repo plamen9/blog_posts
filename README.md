@@ -1,2 +1,4 @@
-# blog_posts
-A repository for my Blog posts
+# Blog posts list:
+- Naming Dynamic Actions
+- Vector Map Tiles
+- Device Geolocation
