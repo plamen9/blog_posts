@@ -43,3 +43,17 @@ Opening your Browser Dev Tools while you interact with an APEX Map will give you
 Also check the official release video for this new feature in the video below. ⬇️
 
 [Map Region Enhancement in APEX 22.2](https://www.youtube.com/watch?v=0DjNfnLHhDU)
+
+# Enabling the Vector Map tiles
+
+Although it's just one simple step, and it's turned on by default, it's good to know where to look for it. The **Component Settings** in **Shared Components** holds the global settings for several Regions and components.
+
+To change the tiles type, used in your Maps regions do the following:
+ - Go to `Shared Components`
+ - Open `Component Settings`
+ - Open `Maps` 
+ - Change `Use Vector Tile Layers`
+
+The default value is '**Yes**' and I encourage you to leave it like that, so you can take advantage of the new way maps are rendered.
+
+![Enabling Vector Map tiles in APEX](https://cdn.hashnode.com/res/hashnode/image/upload/v1667200000095/KdUtAdsxy.png)
